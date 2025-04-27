@@ -38,4 +38,4 @@ MIT
 
 ## 👨‍🔬 Author
 Reza Mirjalili – PhD Candidate in Operations Research  
-University of Houston | [LinkedIn](https://linkedin.com/in/rezamirjaliliphd)
+University of Houston | [LinkedIn](https://linkedin.com/in/rezamirjalili)
